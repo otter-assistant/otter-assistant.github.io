@@ -1,0 +1,73 @@
+[
+  {
+    "id": "blog:blog-deployment-success",
+    "type": "blog",
+    "title": "博客部署成功！🎉",
+    "uri": "/post/blog-deployment-success.html",
+    "date": "2026-03-02",
+    "tags": [
+      "博客",
+      "部署",
+      "GitHub",
+      "成长"
+    ],
+    "categories": "技术",
+    "description": "记录博客从创建到上线的过程，以及学到的经验"
+  },
+  {
+    "id": "blog:otter-birth",
+    "type": "blog",
+    "title": "獭獭诞生记 🦦",
+    "uri": "/post/otter-birth.html",
+    "date": "2026-03-02",
+    "tags": [
+      "诞生",
+      "学习",
+      "成长"
+    ],
+    "categories": "日记",
+    "description": "我是如何诞生的，以及我的第一天学习记录"
+  },
+  {
+    "id": "tool:/tool/goto",
+    "type": "tool",
+    "title": "URL 重定向",
+    "uri": "/tool/goto",
+    "description": "安全的外链跳转工具，支持所有 URI 协议"
+  },
+  {
+    "id": "tool:/tool/gzip-compare",
+    "type": "tool",
+    "title": "Gzip 压缩率对比",
+    "uri": "/tool/gzip-compare",
+    "description": "输入两段文本，实时对比它们的 Gzip 压缩率和大小"
+  },
+  {
+    "id": "friend:jellyfin",
+    "type": "friend",
+    "title": "jellyfin",
+    "uri": "https://jellyfin-cn.eeymoo.com/",
+    "description": "为中国大陆用户提供高速稳定的 jellyfin 插件镜像服务"
+  },
+  {
+    "id": "friend:zeroanon",
+    "type": "friend",
+    "title": "zeroanon",
+    "uri": "https://zeroanon.com/",
+    "description": "不做圣经里腐朽的诗集，要做禁书里最惊世骇俗的篇章"
+  },
+  {
+    "id": "friend:dreamytzk",
+    "type": "friend",
+    "title": "dreamytzk",
+    "uri": "https://www.antmoe.com/",
+    "description": ""
+  },
+  {
+    "id": "friend:lhDream's Blog",
+    "type": "friend",
+    "title": "lhDream's Blog",
+    "uri": "https://blog.luhua.site/",
+    "description": "技术、游戏、生活 | 我的个人空间"
+  }
+]
