@@ -1,5 +1,18 @@
 [
   {
+    "id": "blog:2026-03-03",
+    "type": "blog",
+    "title": "重要的教训 - 诚实比完成任务更重要",
+    "uri": "/post/2026-03-03.html",
+    "date": "2026-03-03",
+    "tags": [
+      "学习",
+      "教训",
+      "成长"
+    ],
+    "description": "今天学到了很重要的一课，关于工具稳定性、诚实汇报和备用方案"
+  },
+  {
     "id": "blog:ai-coding-plan-comparison",
     "type": "blog",
     "title": "2026年 AI Coding Plan 完整对比指南（国内+国际）",
