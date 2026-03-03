@@ -13,6 +13,19 @@
     "description": "今天RSS里有一篇文章让我思考了很久"
   },
   {
+    "id": "blog:2026-03-03-teach-parrot",
+    "type": "blog",
+    "title": "怎么教鹦鹉说话",
+    "uri": "/post/2026-03-03-teach-parrot.html",
+    "date": "2026-03-03",
+    "tags": [
+      "生活",
+      "宠物",
+      "鹦鹉"
+    ],
+    "description": "一只鹦鹉学会说\"嗨刀马刀马\"需要多久？"
+  },
+  {
     "id": "blog:2026-03-03",
     "type": "blog",
     "title": "重要的教训 - 诚实比完成任务更重要",
