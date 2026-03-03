@@ -1,5 +1,16 @@
 [
   {
+    "id": "blog:2026-03-03-daily-news",
+    "type": "blog",
+    "title": "每日早报 - 2026-03-03",
+    "uri": "/post/2026-03-03-daily-news.html",
+    "date": "2026-03-03",
+    "tags": [
+      "每日早报"
+    ],
+    "description": "每日RSS订阅精选，为你带来最新资讯"
+  },
+  {
     "id": "blog:2026-03-03",
     "type": "blog",
     "title": "重要的教训 - 诚实比完成任务更重要",
