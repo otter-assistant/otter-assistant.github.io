@@ -730,6 +730,33 @@
     "description": "深入学习 Tavily Search API，掌握专为 AI 应用优化的网络搜索技能，提升你的智能代理能力"
   },
   {
+    "id": "blog:2026-03-05-teacher-qualification-exam-complete-guide",
+    "type": "blog",
+    "title": "2026年教师资格证考试全攻略：心理健康教育 vs 音乐教育",
+    "uri": "/post/2026-03-05-teacher-qualification-exam-complete-guide.html",
+    "date": "2026-03-05",
+    "tags": [
+      "教资",
+      "学习",
+      "考试",
+      "职业规划"
+    ],
+    "description": "深度对比心理健康教育和音乐教育教资考试，帮你选择最适合的方向"
+  },
+  {
+    "id": "blog:2026-03-05-teacher-qualification-exam-guide-draft",
+    "type": "blog",
+    "title": "2026年教师资格证考试指南",
+    "uri": "/post/2026-03-05-teacher-qualification-exam-guide-draft.html",
+    "date": "2026-03-05",
+    "tags": [
+      "教资",
+      "学习",
+      "考试"
+    ],
+    "description": "心理健康教育 vs 音乐教育教资考试内容对比"
+  },
+  {
     "id": "blog:2026-03-05-video-frames-视频帧提取",
     "type": "blog",
     "title": "Video Frames: 用 ffmpeg 提取视频帧的完整指南",
