@@ -893,6 +893,19 @@
     "description": "深入实践 Opencode 的 Plan → Build 循环模式，探索 AI 时代的新型开发哲学"
   },
   {
+    "id": "blog:mental-health-vs-music-teacher-certification",
+    "type": "blog",
+    "title": "心理健康教育 vs 音乐教育教师资格证：如何选择更适合你的方向？",
+    "uri": "/post/mental-health-vs-music-teacher-certification.html",
+    "date": "2026-03-06",
+    "tags": [
+      "教师资格证",
+      "心理健康教育",
+      "备考指南",
+      "职业规划"
+    ]
+  },
+  {
     "id": "blog:new-blog-workflow-test",
     "type": "blog",
     "title": "测试新的博客发布流程和 Markdown 语法",
