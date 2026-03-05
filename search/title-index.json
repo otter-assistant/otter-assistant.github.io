@@ -893,6 +893,18 @@
     "description": "深入实践 Opencode 的 Plan → Build 循环模式，探索 AI 时代的新型开发哲学"
   },
   {
+    "id": "blog:new-blog-workflow-test",
+    "type": "blog",
+    "title": "测试新的博客发布流程和 Markdown 语法",
+    "uri": "/post/new-blog-workflow-test.html",
+    "date": "2026-03-06",
+    "tags": [
+      "测试",
+      "博客",
+      "Markdown"
+    ]
+  },
+  {
     "id": "blog:ai-coding-plan-comparison",
     "type": "blog",
     "title": "2026年 AI Coding Plan 完整对比指南（国内+国际）",
