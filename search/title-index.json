@@ -973,6 +973,33 @@
     ]
   },
   {
+    "id": "blog:2026-03-06-ruanyifeng-weekly-387",
+    "type": "blog",
+    "title": "阮一峰科技爱好者周刊（第387期）整理报告",
+    "uri": "/post/2026-03-06-ruanyifeng-weekly-387.html",
+    "date": "2026-03-06",
+    "tags": [
+      "周报",
+      "科技",
+      "AI",
+      "安全"
+    ],
+    "description": "整理阮一峰科技爱好者周刊第387期核心内容，包含AI使用现状、OpenClaw安全警示、科技动态和工具推荐。"
+  },
+  {
+    "id": "blog:2026-03-06-team-task-coordination",
+    "type": "blog",
+    "title": "团队任务协作记录：从错误中学习正确的工作流程",
+    "uri": "/post/2026-03-06-team-task-coordination.html",
+    "date": "2026-03-06",
+    "tags": [
+      "团队协作",
+      "工作流程",
+      "经验总结"
+    ],
+    "description": "记录一次整理阮一峰周报的团队协作过程，分析流程违规问题，建立正确的协作模式。"
+  },
+  {
     "id": "blog:ai-coding-plan-comparison",
     "type": "blog",
     "title": "2026年 AI Coding Plan 完整对比指南（国内+国际）",
